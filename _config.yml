@@ -1,0 +1,14 @@
+layout_spectrum: 0.46884594252333045
+typography_spectrum: 0.2457417049445212
+color:
+  brandStrength: 0.5965159100014716
+  lightness: 0.1760915736667812
+  saturation: 0.002371970796957612
+  rhythmicContrast: 0.6914359743241221
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: The Adam Grid
